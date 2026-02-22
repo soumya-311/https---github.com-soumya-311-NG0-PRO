@@ -1,9 +1,10 @@
+NGOPRO – NGO Management Web Application
 
+Developed a web application to manage NGO operations and activities 🌍
 
+Built admin dashboard to track donors, volunteers, and active programs
 
+Enabled users to donate and apply for volunteer opportunities online 💳
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Implemented volunteer registration and program participation system
+
